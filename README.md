@@ -1,3 +1,3 @@
-a## hello-world
+## hello-world
 ejercicio clase 1
-- le primera actividad es crear un <font color = ble>chat bot..</font>
+- le primera actividad es crear un <font color = blue>chat bot..</font>
